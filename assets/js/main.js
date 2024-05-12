@@ -197,8 +197,9 @@ var typed = new Typed("#typed", {
         "Data Engineer", 
         "AWS Cloud Practitioner",
         "Data Analyst",
-        "AWS Solutions Architect",
+        "AWS Certified Data Engineer",
         "Web Developer", 
+	"Data Science Enthusiast"
         ],
     typeSpeed:70,
     backSpeed:70,
